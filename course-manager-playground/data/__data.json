@@ -1,7 +1,6 @@
-﻿{
+{
   "Courses": [
     {
-      "id": 1,
       "title": "Curso Completo MongoDB 2023 [NoSQL do Básico ao Avançado!",
       "progress": 10,
       "acquisitionDate": "24/05/2021",
@@ -12,23 +11,13 @@
       "platform": "Udemy",
       "duration": 17.5,
       "instructor": "Renan Pallin",
-      "price": "22.90",
+      "price": "R$ 22.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "mongo",
-        "database",
-        "nosql",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, mongo, database, nosql, pay, udemy"
+      "tags": ["ead", "mongo", "database","nosql", "pay", "udemy"],
+      "category": "finished",
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 2,
       "title": "Docker 2.0",
       "progress": 58,
       "acquisitionDate": "09/07/2020",
@@ -37,23 +26,16 @@
       "link": "https://plataforma.devopspro.com.br/courses/af00ffe1-1d2f-4dce-9a19-780e59273907/8/1/21/conteudos?capitulo=21&conteudo=557",
       "image": "",
       "platform": "DevopsPro",
-      "duration": 2.0,
+      "duration": 2,
       "instructor": "Fabricio Veronez",
       "price": "0",
       "certificate": "",
       "sourceCode": "",
-      "tags": [
-        "ead",
-        "docker",
-        "pay",
-        "devopspro"
-      ],
+      "tags": ["ead", "docker", "pay", "devopspro"],
       "category": "active",
-      "backText": "",
-      "TagsAsString": "ead, docker, pay, devopspro"
+      "backText": ""
     },
     {
-      "id": 3,
       "title": "ASP.NET 8 - Criando Minimal API + EF Core 8",
       "progress": 100,
       "acquisitionDate": "14/12/2024",
@@ -67,21 +49,11 @@
       "price": "130.90",
       "certificate": "https://www.udemy.com/certificate/UC-994fa04a-125f-4216-b15a-ecd39c140d2b/",
       "sourceCode": "https://github.com/ivanclay/aspnet-minimal-api",
-      "tags": [
-        "ead",
-        "asp.net",
-        "aspnet",
-        "minimalapi",
-        "Entity",
-        "pay",
-        "devopspro"
-      ],
+      "tags": ["ead", "asp.net", "aspnet", "minimalapi", "Entity", "pay", "devopspro"],
       "category": "active",
-      "backText": "",
-      "TagsAsString": "ead, asp.net, aspnet, minimalapi, Entity, pay, devopspro"
+      "backText": ""
     },
     {
-      "id": 4,
       "title": "Segurança em APIs ASP.NET com JWT e Bearer Authentication",
       "progress": 100,
       "acquisitionDate": "25/08/2023",
@@ -90,24 +62,15 @@
       "link": "https://balta.io/player/assistir/c98af94e-8d21-4a8c-a9af-1549078eb72b",
       "image": "https://d335luupugsy2.cloudfront.net/images%2Flanding_page%2F617411%2Fbalta.io.png",
       "platform": "Balta.io",
+      "price": "R$ 0.0",
       "duration": 4.0,
       "instructor": "Balta",
-      "price": "0.0",
       "certificate": "https://balta.io/certificados/e1691fef-f49e-41a2-81f5-9699c7f6bb76",
       "sourceCode": "https://github.com/ivanclay/JwtAspNet",
-      "tags": [
-        "segurança",
-        "jwt",
-        ".net",
-        "pay",
-        "balta"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "segurança, jwt, .net, pay, balta"
+      "tags": ["segurança", "jwt", ".net", "pay", "balta"],
+      "category": "finished"
     },
     {
-      "id": 5,
       "title": ".NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture",
       "progress": 1,
       "acquisitionDate": "08/03/2025",
@@ -120,23 +83,11 @@
       "instructor": "Mehmet Ozkaya",
       "price": "154.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        ".net 8",
-        "ddd",
-        "cqrs",
-        "vertical slice",
-        "clean archtecture",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", ".net 8","ddd", "cqrs","vertical slice", "clean archtecture", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "You will learn how to build Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementation using latest codes and best practices of .NET 8 on cloud-native environments. You will develop e-commerce modules over Product, Basket, Discount and Ordering microservices with NoSQL (PostgreSQL DocumentDB, Redis) and Relational databases (SQLite, Sql Server) with communicating over RabbitMQ Event Driven Communication and using Yarp API Gateway. You can find Microservices Architecture and Step by Step Implementation on .NET which step by step developing this course with extensive explanations and details.",
-      "TagsAsString": "ead, .net 8, ddd, cqrs, vertical slice, clean archtecture, subscribe, udemy"
+      "backText": "You will learn how to build Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementation using latest codes and best practices of .NET 8 on cloud-native environments. You will develop e-commerce modules over Product, Basket, Discount and Ordering microservices with NoSQL (PostgreSQL DocumentDB, Redis) and Relational databases (SQLite, Sql Server) with communicating over RabbitMQ Event Driven Communication and using Yarp API Gateway. You can find Microservices Architecture and Step by Step Implementation on .NET which step by step developing this course with extensive explanations and details."
     },
     {
-      "id": 6,
       "title": "Deploying .Net Microservices with K8s, AKS and Azure DevOps",
       "progress": 1,
       "acquisitionDate": "",
@@ -147,24 +98,13 @@
       "platform": "Udemy",
       "duration": 10.5,
       "instructor": "Mehmet Ozkaya",
-      "price": "0",
+      "price": "",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "aks",
-        "azure",
-        "devops",
-        "kubernetes",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "aks", "azure","devops", "kubernetes", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, aks, azure, devops, kubernetes, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 7,
       "title": "Microservices Observability, Resilience, Monitoring on .Net",
       "progress": 1,
       "acquisitionDate": "",
@@ -177,27 +117,11 @@
       "instructor": "Mehmet Ozkaya",
       "price": "133.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        ".net",
-        "elastic",
-        "polly",
-        "watchdog",
-        "opentelemetry",
-        "observability",
-        "microservices",
-        "resilience",
-        "monitoring",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", ".net", "elastic", "polly", "watchdog", "opentelemetry", "observability", "microservices", "resilience", "monitoring", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, .net, elastic, polly, watchdog, opentelemetry, observability, microservices, resilience, monitoring, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 8,
       "title": "Asp.NET Core Identity + MVC e Web API + SQL Server + EF Core",
       "progress": 1,
       "acquisitionDate": "",
@@ -206,27 +130,15 @@
       "link": "https://www.udemy.com/course/aspnet-core-identity/?course_id=2298834&couponCode=KEEPLEARNINGBR",
       "image": "https://img-c.udemycdn.com/course/240x135/2298834_3f8b_4.jpg",
       "platform": "Udemy",
-      "duration": 6.0,
+      "duration": 6,
       "instructor": "Vinícius de Andrade",
       "price": "161.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "asp.net",
-        "aspnet",
-        "identity",
-        "webapi",
-        "entity",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "asp.net", "aspnet", "identity", "webapi", "entity", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, asp.net, aspnet, identity, webapi, entity, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 9,
       "title": "Grafana: Dashboards Gerenciais + Monitoramento",
       "progress": 1,
       "acquisitionDate": "",
@@ -239,20 +151,11 @@
       "instructor": "Leonardo Adonis",
       "price": "114.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "grafana",
-        "monitoramento",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "grafana", "monitoramento", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, grafana, monitoramento, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 10,
       "title": "Entity Framework Core 8 (EF Core 8) + Minimal API (2025)",
       "progress": 1,
       "acquisitionDate": "",
@@ -265,20 +168,11 @@
       "instructor": "Vinícius de Andrade",
       "price": "209.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "minimalapi",
-        "entity",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "minimalapi", "entity", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, minimalapi, entity, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 11,
       "title": "ASP.NET Core Identity - Authentication & Authorization [MVC]",
       "progress": 1,
       "acquisitionDate": "",
@@ -291,21 +185,11 @@
       "instructor": "Bhrugen Patel",
       "price": "107.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "asp.net",
-        "aspnet",
-        "identity",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "asp.net", "aspnet", "identity", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, asp.net, aspnet, identity, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 12,
       "title": "Master ASP.NET Core Identity: Authentication & Authorization",
       "progress": 1,
       "acquisitionDate": "",
@@ -314,53 +198,32 @@
       "link": "https://www.udemy.com/course/complete-guide-to-aspnet-core-identity/?course_id=3998348&couponCode=KEEPLEARNINGBR",
       "image": "https://img-c.udemycdn.com/course/240x135/3998348_931f_7.jpg",
       "platform": "Udemy",
-      "duration": 14.0,
+      "duration": 14,
       "instructor": "Frank Liu",
-      "price": "0",
+      "price": "",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "asp.net",
-        "aspnet",
-        "identity",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "asp.net", "aspnet", "identity", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, asp.net, aspnet, identity, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 13,
-      "title": "AI-900 - Azure AI Fundamentals - Simulados em Português",
-      "progress": 0,
-      "acquisitionDate": "14/12/2024",
+      "title": "RabbitMQ In Practice",
+      "progress": 1,
+      "acquisitionDate": "",
       "startDate": "",
       "endDate": "",
-      "link": "https://www.udemy.com/course/ai-900-azure-ai-fundamentals-simulados-em-portugues-y/?couponCode=KEEPLEARNINGBR",
-      "image": "https://img-c.udemycdn.com/course/240x135/6299797_fcb1.jpg",
+      "link": "https://www.udemy.com/course/rabbitmq-in-practice/?course_id=4049476&couponCode=KEEPLEARNINGBR",
+      "image": "https://img-c.udemycdn.com/course/240x135/4049476_e0db_3.jpg",
       "platform": "Udemy",
-      "duration": 6.0,
-      "instructor": "Certifica Tech",
-      "price": "0",
+      "duration": 9,
+      "instructor": "Piotr Zuk",
+      "price": "",
       "certificate": "",
-      "sourceCode": "",
-      "tags": [
-        "ead",
-        " mock exame",
-        " free",
-        " azure",
-        " certification",
-        " AI-900",
-        " udemy"
-      ],
-      "category": "active",
-      "backText": "6 simulados para a prova AI-900: Azure AI Fundamentals.",
-      "TagsAsString": "ead,  mock exame,  free,  azure,  certification,  AI-900,  udemy"
+      "tags": ["ead", "rabbitmq", "subscribe", "udemy"],
+      "category": "subscribe",
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 14,
       "title": "Getting Started .NET Core Microservices RabbitMQ",
       "progress": 1,
       "acquisitionDate": "",
@@ -371,22 +234,13 @@
       "platform": "Udemy",
       "duration": 4.5,
       "instructor": "Manish Narayan",
-      "price": "95.00",
+      "price": "R$ 95.00",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "rabbitmq",
-        ".net",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "rabbitmq", ".net", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, rabbitmq, .net, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 15,
       "title": ".NET Microservices: CQRS & Event Sourcing with Kafka",
       "progress": 1,
       "acquisitionDate": "",
@@ -397,25 +251,13 @@
       "platform": "Udemy",
       "duration": 8.5,
       "instructor": "Sean Campbell",
-      "price": "146.90",
+      "price": "R$ 146.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "cqrs",
-        ".net",
-        "microservices",
-        "event-sourcing",
-        "kafka",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "cqrs", ".net", "microservices", "event-sourcing", "kafka", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, cqrs, .net, microservices, event-sourcing, kafka, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 16,
       "title": "Monitoramento de aplicações com Prometheus e Grafana",
       "progress": 100,
       "acquisitionDate": "25/10/2024",
@@ -426,23 +268,13 @@
       "platform": "Udemy",
       "duration": 5.5,
       "instructor": "Rodrigo Roma",
-      "price": "174.90",
+      "price": "R$ 174.90",
       "certificate": "https://www.udemy.com/certificate/UC-2fd81b3d-9852-4c2a-b62f-28ed50ed7358/",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "monitoring",
-        "grafana",
-        "prometheus",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "monitoring", "grafana", "prometheus", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, monitoring, grafana, prometheus, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 17,
       "title": "O Curso Completo de MongoDB e NoSQL com PYTHON para DEVs SQL",
       "progress": 0,
       "acquisitionDate": "",
@@ -453,24 +285,13 @@
       "platform": "Udemy",
       "duration": 5.0,
       "instructor": "Julio Alcantara",
-      "price": "184.90",
+      "price": "R$ 184.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "mongo",
-        "noqsl",
-        "database",
-        "python",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "mongo", "noqsl", "database", "python", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, mongo, noqsl, database, python, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 18,
       "title": "Apache Kafka Series - Kafka Monitoring & Operations",
       "progress": 1,
       "acquisitionDate": "",
@@ -479,23 +300,15 @@
       "link": "https://www.udemy.com/course/rabbitmq-in-practice/?course_id=4049476&couponCode=KEEPLEARNINGBR",
       "image": "https://img-c.udemycdn.com/course/240x135/1836390_be6d_9.jpg",
       "platform": "Udemy",
-      "duration": 5.0,
+      "duration": 5,
       "instructor": "Stephane Maarek",
-      "price": "139.90",
+      "price": "R$ 139.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "kafka",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "kafka", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, kafka, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 19,
       "title": "ASP.NET Core Identity & Security",
       "progress": 1,
       "acquisitionDate": "",
@@ -506,24 +319,13 @@
       "platform": "Udemy",
       "duration": 4.5,
       "instructor": "Aref Karimi",
-      "price": "103.90",
+      "price": "R$ 103.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "asp.net",
-        "aspnet",
-        "identity",
-        "security",
-        "subscribe",
-        "udemy"
-      ],
+      "tags": ["ead", "asp.net", "aspnet", "identity", "security", "subscribe", "udemy"],
       "category": "subscribe",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, asp.net, aspnet, identity, security, subscribe, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 20,
       "title": "Ensinando Online - Como criar seu curso EaD",
       "progress": 100,
       "acquisitionDate": "11/03/2019",
@@ -534,21 +336,13 @@
       "platform": "Udemy",
       "duration": 2.5,
       "instructor": "",
-      "price": "19.90",
+      "price": "R$ 19.90",
       "certificate": "https://www.udemy.com/certificate/UC-P5OMCO0G/",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "gamification",
-        "pay",
-        "udemy"
-      ],
+      "tags": ["ead", "gamification", "pay", "udemy"],
       "category": "finished",
-      "backText": "Este curso ensina como criar cursos online de forma eficiente.",
-      "TagsAsString": "ead, gamification, pay, udemy"
+      "backText": "Este curso ensina como criar cursos online de forma eficiente."
     },
     {
-      "id": 21,
       "title": "Introdução à Gamificação",
       "progress": 100,
       "acquisitionDate": "11/03/2019",
@@ -559,21 +353,12 @@
       "platform": "Udemy",
       "duration": 2.5,
       "instructor": "",
-      "price": "0.0",
+      "price": "R$ 0.0",
       "certificate": "Gratuito sem certificado!",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "gamification",
-        "free",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "ead, gamification, free, udemy"
+      "tags": ["ead", "gamification", "free", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 22,
       "title": "Amazon DynamoDB para Iniciantes - Aprenda Banco NoSQL da AWS",
       "progress": 100,
       "acquisitionDate": "24/05/2021",
@@ -584,24 +369,12 @@
       "platform": "Udemy",
       "duration": 5.5,
       "instructor": "Rogerio Guimaraes",
-      "price": "22.90",
+      "price": "R$ 22.90",
       "certificate": "https://www.udemy.com/certificate/UC-2c82db6a-0299-4a7b-be6b-e25c686f837a/",
-      "sourceCode": null,
-      "tags": [
-        "dynamodb",
-        "aws",
-        "amazon",
-        "database",
-        "nosql",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "dynamodb, aws, amazon, database, nosql, pay, udemy"
+      "tags": ["dynamodb", "aws", "amazon", "database", "nosql", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 23,
       "title": "Guia Certificações Amazon AWS, Azure e Google Cloud",
       "progress": 100,
       "acquisitionDate": "24/05/2021",
@@ -612,23 +385,12 @@
       "platform": "Udemy",
       "duration": 1.5,
       "instructor": "Andre Iacono",
-      "price": "0.0",
+      "price": "R$ 0.0",
       "certificate": "Gratuito sem certificado!",
-      "sourceCode": null,
-      "tags": [
-        "certification",
-        "aws",
-        "amazon",
-        "cloud",
-        "free",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "certification, aws, amazon, cloud, free, udemy"
+      "tags": ["certification", "aws", "amazon", "cloud", "free", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 24,
       "title": "SASS: Crie o seu primeiro projeto!",
       "progress": 100,
       "acquisitionDate": "16/06/2021",
@@ -639,21 +401,12 @@
       "platform": "Udemy",
       "duration": 1.0,
       "instructor": "Matheus Battisti",
-      "price": "0.0",
+      "price": "R$ 0.0",
       "certificate": "Gratuito sem certificado!",
-      "sourceCode": null,
-      "tags": [
-        "sass",
-        "css",
-        "free",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "sass, css, free, udemy"
+      "tags": ["sass", "css", "free", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 25,
       "title": "Formação Angular 13 - O início criando 7 projetos",
       "progress": 100,
       "acquisitionDate": "30/09/2021",
@@ -664,21 +417,12 @@
       "platform": "Udemy",
       "duration": 11.0,
       "instructor": "Marcio Casale de Souza",
-      "price": "27.90",
+      "price": "R$ 27.90",
       "certificate": "https://www.udemy.com/certificate/UC-cf31b0a4-7a1a-42b8-9ab1-275a422d7d26/",
-      "sourceCode": null,
-      "tags": [
-        "frontend",
-        "angular",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "frontend, angular, pay, udemy"
+      "tags": ["frontend", "angular", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 26,
       "title": "Fundamentos de Domain-Driven Design (DDD)",
       "progress": 100,
       "acquisitionDate": "02/11/2021",
@@ -689,21 +433,12 @@
       "platform": "Udemy",
       "duration": 1.5,
       "instructor": "Eduardo Filipe Gomes",
-      "price": "27.90",
+      "price": "R$ 27.90",
       "certificate": "https://www.udemy.com/certificate/UC-5ab0485c-c55b-49a3-a83c-de042e43e40d/",
-      "sourceCode": null,
-      "tags": [
-        "ddd",
-        "arquitetura",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "ddd, arquitetura, pay, udemy"
+      "tags": ["ddd", "arquitetura", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 27,
       "title": "RabbitMQ: de A-Z com exemplos",
       "progress": 100,
       "acquisitionDate": "09/08/2021",
@@ -714,20 +449,12 @@
       "platform": "Udemy",
       "duration": 1.5,
       "instructor": "",
-      "price": "22.90",
+      "price": "R$ 22.90",
       "certificate": "https://www.udemy.com/certificate/UC-9f737e21-2aad-47d8-a249-d45736ad84a2/",
-      "sourceCode": null,
-      "tags": [
-        "rabbitmq",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "rabbitmq, pay, udemy"
+      "tags": ["rabbitmq", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 28,
       "title": "LaTeX do zero ao avançado",
       "progress": 100,
       "acquisitionDate": "30/01/2024",
@@ -738,20 +465,12 @@
       "platform": "Udemy",
       "duration": 5.0,
       "instructor": "Alexandre Nunes",
-      "price": "23,99",
+      "price": "R$ 23,99",
       "certificate": "https://www.udemy.com/certificate/UC-b710430e-8512-4368-b1b7-8cf5e79c6ba8/",
-      "sourceCode": null,
-      "tags": [
-        "latex",
-        "subscription",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "latex, subscription, udemy"
+      "tags": ["latex", "subscription", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 29,
       "title": "Docker: Ferramenta essencial para Desenvolvedores​",
       "progress": 100,
       "acquisitionDate": "06/04/2020",
@@ -760,22 +479,13 @@
       "link": "https://www.udemy.com/course/curso-docker/",
       "image": "https://img-c.udemycdn.com/course/240x135/1137616_870b.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
+      "price": "R$ 23,99",
       "instructor": "Leonardo Moura Leitão",
-      "price": "23,99",
       "certificate": "https://www.udemy.com/certificate/UC-ad613146-b0f9-4c5f-942c-133061669cb8/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com",
-      "sourceCode": null,
-      "tags": [
-        "docker",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "docker, pay, udemy"
+      "tags": ["docker", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 30,
       "title": "Testes automatizados com Cypress - Avançado​",
       "progress": 100,
       "acquisitionDate": "03/08/2022",
@@ -784,23 +494,13 @@
       "link": "https://www.udemy.com/course/testes-automatizados-com-cypress-avancado/",
       "image": "https://img-c.udemycdn.com/course/240x135/3909364_d658_2.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
+      "price": "R$ 27,90",
       "instructor": "Walmyr Filho",
-      "price": "27,90",
       "certificate": "https://www.udemy.com/certificate/UC-b44acaae-706a-462b-96df-cdae4bbce361/",
-      "sourceCode": null,
-      "tags": [
-        "cypress",
-        "teste",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "cypress, teste, pay, udemy"
+      "tags": ["cypress", "teste", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 31,
       "title": "Boas práticas em automação de testes com Cypress​",
       "progress": 100,
       "acquisitionDate": "03/08/2022",
@@ -809,23 +509,14 @@
       "link": "https://www.udemy.com/course/boas-praticas-em-automacao-de-testes-com-cypress/",
       "image": "https://img-c.udemycdn.com/course/240x135/4114514_b201_3.jpg",
       "platform": "Udemy",
-      "duration": 3.0,
+      "price": "R$ 27,90",
+      "duration": 3,
       "instructor": "Walmyr Filho",
-      "price": "27,90",
       "certificate": "https://www.udemy.com/certificate/UC-22588586-bcdb-487b-a821-2f0df849fbe3/",
-      "sourceCode": null,
-      "tags": [
-        "cypress",
-        "teste",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "cypress, teste, pay, udemy"
+      "tags": ["cypress", "teste", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 32,
       "title": "Testes automatizados com Cypress (intermediário)​",
       "progress": 100,
       "acquisitionDate": "03/08/2022",
@@ -834,23 +525,14 @@
       "link": "https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/",
       "image": "https://img-c.udemycdn.com/course/240x135/2959120_4ba0_4.jpg",
       "platform": "Udemy",
+      "price": "R$ 27,90",
       "duration": 2.5,
       "instructor": "Walmyr Filho",
-      "price": "27,90",
       "certificate": "https://www.udemy.com/certificate/UC-f4011eac-41df-401e-9448-bd2526f7c136/",
-      "sourceCode": null,
-      "tags": [
-        "cypress",
-        "teste",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "cypress, teste, pay, udemy"
+      "tags": ["cypress", "teste", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 33,
       "title": "Fundamentos dos Microsserviços​",
       "progress": 100,
       "acquisitionDate": "25/08/2023",
@@ -859,23 +541,16 @@
       "link": "https://balta.io/player/assistir/c98af94e-8d21-4a8c-a9af-1549078eb72b",
       "image": "https://repository-images.githubusercontent.com/385645442/d31271d5-c9a4-4207-be56-87995205929f",
       "platform": "Balta.io",
+      "price": "R$ 0.0",
       "duration": 2.0,
-      "instructor": "André Baltieri (Balta)",
-      "price": "0.0",
+      "instructor": "Balta",
       "certificate": "https://balta.io/certificados/b0dbb31c-db62-4202-bb1a-58098122718d",
       "sourceCode": "",
-      "tags": [
-        "microservice",
-        ".net",
-        "pay",
-        "balta"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "microservice, .net, pay, balta"
+      "tags": ["microservice", ".net", "pay", "balta"],
+      "category": "finished"
     },
     {
-      "id": 34,
+      "id": 3064,
       "title": "Arquitetura Limpa com .NET",
       "progress": 89,
       "acquisitionDate": "25/09/2024",
@@ -884,23 +559,16 @@
       "link": "https://balta.io/player/assistir/b7a2a651-9505-4ab3-9fbc-41cc7de348a2",
       "image": "https://baltaio.blob.core.windows.net/static/images/courses/arquitetura-limpa_banner.jpg",
       "platform": "Balta.io",
+      "price": "R$ 0.0",
       "duration": 2.0,
       "instructor": "Balta",
-      "price": "0.0",
       "certificate": "",
       "sourceCode": "",
-      "tags": [
-        "clean arch",
-        ".net",
-        "pay",
-        "balta"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "clean arch, .net, pay, balta"
+      "tags": ["clean arch", ".net", "pay", "balta"],
+      "category": "finished"
     },
     {
-      "id": 35,
+      "id": 3099,
       "title": "Fundamentos do C#​",
       "progress": 100,
       "acquisitionDate": "25/08/2023",
@@ -909,24 +577,16 @@
       "link": "https://balta.io/player/assistir/5ef614da-366d-6156-d049-694800000000",
       "image": "https://baltaio.blob.core.windows.net/static/images/courses/fundamentos-csharp_banner.jpg",
       "platform": "Balta.io",
+      "price": "R$ 0.0",
       "duration": 12.0,
       "instructor": "André Baltieri (Balta)",
-      "price": "0.0",
       "certificate": "https://balta.io/certificados/e37ec8c8-0c44-4fc2-9ef1-082ac4208fb2",
       "sourceCode": "",
-      "tags": [
-        "foundations",
-        "c#",
-        ".net",
-        "pay",
-        "balta"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "foundations, c#, .net, pay, balta"
+      "tags": ["foundations", "c#", ".net", "pay", "balta"],
+      "category": "finished"
     },
     {
-      "id": 36,
+      "id": 3098,
       "title": "Refatorando para testes de unidade​",
       "progress": 100,
       "acquisitionDate": "25/08/2023",
@@ -935,25 +595,16 @@
       "link": "https://balta.io/player/assistir/5ef614da-366d-6156-d049-694800000000",
       "image": "https://baltaio.blob.core.windows.net/static/images/courses/fundamentos-csharp_banner.jpg",
       "platform": "Balta.io",
+      "price": "R$ 0.0",
       "duration": 2.0,
       "instructor": "André Baltieri (Balta)",
-      "price": "0.0",
       "certificate": "https://balta.io/certificados/a0e7604b-6211-4cab-b773-567f80209789",
       "sourceCode": "",
-      "tags": [
-        "refactoring",
-        "test",
-        "c#",
-        ".net",
-        "pay",
-        "balta"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "refactoring, test, c#, .net, pay, balta"
+      "tags": ["refactoring", "test", "c#", ".net", "pay", "balta"],
+      "category": "finished"
     },
     {
-      "id": 37,
+      "id": 3097,
       "title": "Modelando Domínios Ricos",
       "progress": 100,
       "acquisitionDate": "25/08/2023",
@@ -962,24 +613,16 @@
       "link": "https://balta.io/player/assistir/5c350f62-e717-9a7d-1241-702a00000000",
       "image": "https://baltaio.blob.core.windows.net/static/images/courses/fundamentos-csharp_banner.jpg",
       "platform": "Balta.io",
+      "price": "R$ 0.0",
       "duration": 4.5,
       "instructor": "André Baltieri (Balta)",
-      "price": "0.0",
       "certificate": "https://balta.io/certificados/b90e2824-f958-440e-b2d4-da21a41f13e3",
       "sourceCode": "",
-      "tags": [
-        "rich domains",
-        "c#",
-        ".net",
-        "pay",
-        "balta"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "rich domains, c#, .net, pay, balta"
+      "tags": ["rich domains", "c#", ".net", "pay", "balta"],
+      "category": "finished"
     },
     {
-      "id": 38,
+      "id": 3096,
       "title": "Progressive Web Apps com Blazor Web Assembly",
       "progress": 100,
       "acquisitionDate": "25/08/2023",
@@ -988,25 +631,16 @@
       "link": "https://balta.io/player/assistir/8fdfff9e-25e6-4141-997f-0ee8cdf2bf05",
       "image": "https://baltaio.blob.core.windows.net/static/images/courses/progressive-web-apps-com-blazor-webassembly_banner.jpg",
       "platform": "Balta.io",
+      "price": "R$ 0.0",
       "duration": 1.4,
       "instructor": "André Baltieri (Balta)",
-      "price": "0.0",
       "certificate": "https://balta.io/certificados/0f415eed-0249-4cca-8319-f12abaa1dfd4",
       "sourceCode": "",
-      "tags": [
-        "web app",
-        "blazor",
-        "c#",
-        ".net",
-        "pay",
-        "balta"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "web app, blazor, c#, .net, pay, balta"
+      "tags": ["web app", "blazor", "c#", ".net", "pay", "balta"],
+      "category": "finished"
     },
     {
-      "id": 39,
+      "id": 2818,
       "title": "Aplicando Orientação a Objetos em Projetos Reais com C# 11 e .NET 7",
       "progress": 100,
       "acquisitionDate": "24/01/2024",
@@ -1015,25 +649,15 @@
       "link": "https://balta.io/player/assistir/dfa3752e-4bd5-4101-bafb-ff3afcf39930",
       "image": "https://baltaio.blob.core.windows.net/static/images/courses/aplicando-orientacao-a-objetos-em-projetos-reais-com-csharp-11-e-dotnet-7_banner.jpg",
       "platform": "Balta.io",
+      "price": "R$ 0.0",
       "duration": 2.3,
       "instructor": "André Baltieri (Balta)",
-      "price": "0.0",
       "certificate": "https://balta.io/certificados/e018a10d-a75e-4cc7-9510-292b13a436ac",
       "sourceCode": "",
-      "tags": [
-        "web app",
-        "blazor",
-        "c#",
-        ".net",
-        "pay",
-        "balta"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "web app, blazor, c#, .net, pay, balta"
+      "tags": ["web app", "blazor", "c#", ".net", "pay", "balta"],
+      "category": "finished"
     },
     {
-      "id": 40,
       "title": "Insomnia Rest para Requisições HTTP​",
       "progress": 100,
       "acquisitionDate": "03/08/2022",
@@ -1042,23 +666,15 @@
       "link": "https://www.udemy.com/course/insomnia-rest-para-requisicoes-http/",
       "image": "https://img-c.udemycdn.com/course/240x135/4758488_2b7c_3.jpg",
       "platform": "Udemy",
+      "price": "R$ 22,90",
       "duration": 2.0,
       "instructor": "Manoel Fernando Neto",
-      "price": "22,90",
       "certificate": "https://www.udemy.com/certificate/UC-3bb63ae9-70b5-4bd8-904f-5d8023e53b82/",
       "sourceCode": "",
-      "tags": [
-        "cypress",
-        "teste",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "cypress, teste, pay, udemy"
+      "tags": ["cypress", "teste", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 41,
       "title": "Cypress, do Zero à Nuvem​",
       "progress": 100,
       "acquisitionDate": "03/08/2022",
@@ -1067,23 +683,15 @@
       "link": "https://www.udemy.com/course/testes-automatizados-com-cypress-basico",
       "image": "https://img-c.udemycdn.com/course/240x135/2959042_e7f6_3.jpg",
       "platform": "Udemy",
+      "price": "R$ 27,90",
       "duration": 5.5,
       "instructor": "Walmyr Filho",
-      "price": "27,90",
       "certificate": "https://www.udemy.com/certificate/UC-b6b2c6be-9fe9-4b6c-ac66-ba38c99fd1ea/",
       "sourceCode": "",
-      "tags": [
-        "cypress",
-        "teste",
-        "pay",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "cypress, teste, pay, udemy"
+      "tags": ["cypress", "teste", "pay", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 42,
       "title": "Introdução a DevOps​",
       "progress": 100,
       "acquisitionDate": "09/04/2024",
@@ -1094,20 +702,13 @@
       "platform": "DevopsPro",
       "duration": 1.0,
       "instructor": "Fabricio Veronez",
-      "price": "0,00",
+      "price": "R$ 0,00",
       "certificate": "https://certificado.devopspro.com.br/certificado?code=999d0354-68f4-4870-9de3-362cdbb2bb38",
       "sourceCode": "",
-      "tags": [
-        "devops",
-        "pay",
-        "devopspro"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "devops, pay, devopspro"
+      "tags": ["devops", "pay", "devopspro"],
+      "category": "finished"
     },
     {
-      "id": 43,
       "title": "Linux​",
       "progress": 100,
       "acquisitionDate": "09/04/2024",
@@ -1118,20 +719,13 @@
       "platform": "DevopsPro",
       "duration": 1.0,
       "instructor": "Fabricio Veronez",
-      "price": "0,00",
+      "price": "R$ 0,00",
       "certificate": "https://certificado.devopspro.com.br/certificado?code=e34833ba-9b2b-4784-a7d9-b009547aa07e",
       "sourceCode": "",
-      "tags": [
-        "linux",
-        "pay",
-        "devopspro"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "linux, pay, devopspro"
+      "tags": ["linux", "pay", "devopspro"],
+      "category": "finished"
     },
     {
-      "id": 44,
       "title": "Git e Github para iniciantes​",
       "progress": 100,
       "acquisitionDate": "01/01/1900",
@@ -1142,226 +736,117 @@
       "platform": "Udemy",
       "duration": 2.0,
       "instructor": "Willian Justen de Vasconcellos",
-      "price": "0,00",
+      "price": "R$ 0,00",
       "certificate": "Gratuito sem certificado!",
       "sourceCode": "",
-      "tags": [
-        "git",
-        "github",
-        "free",
-        "udemy"
-      ],
-      "category": "finished",
-      "backText": null,
-      "TagsAsString": "git, github, free, udemy"
+      "tags": ["git", "github", "free", "udemy"],
+      "category": "finished"
     },
     {
-      "id": 45,
       "title": "Randstad - Backend com .NET",
       "progress": 0,
+      "duration": 1,
       "acquisitionDate": "-",
       "startDate": "-",
       "endDate": "-",
       "link": "https://web.dio.me/track/coding-future-back-end-dot-net?tab=path",
       "image": "https://hermes.dio.me/tracks/a6866950-fde5-41f1-b7b0-e96d2dbf0878.png",
       "platform": "DIO",
-      "duration": 1.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        ".net",
-        "pay",
-        "dio"
-      ],
-      "category": "wishlist",
-      "backText": null,
-      "TagsAsString": "ead, .net, pay, dio"
+      "tags": ["ead", ".net", "pay", "dio"],
+      "category": "wishlist"
     },
     {
-      "id": 46,
       "title": "Microsoft Azure Essentials",
       "progress": 0,
+      "duration": 1,
       "acquisitionDate": "-",
       "startDate": "-",
       "endDate": "-",
       "link": "https://web.dio.me/track/microsoft-azure-essentials",
       "image": "https://hermes.dio.me/tracks/73b2de55-d67a-4dcc-8bea-4a16d0c4d30c.png",
       "platform": "DIO",
-      "duration": 1.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "azure",
-        "cloud",
-        "pay",
-        "dio"
-      ],
-      "category": "wishlist",
-      "backText": null,
-      "TagsAsString": "ead, azure, cloud, pay, dio"
+      "tags": ["ead", "azure", "cloud", "pay", "dio"],
+      "category": "wishlist"
     },
     {
-      "id": 47,
       "title": "Introdução à Visão Computacional",
       "progress": 0,
+      "duration": 1,
       "acquisitionDate": "-",
       "startDate": "-",
       "endDate": "-",
       "link": "https://web.dio.me/",
       "image": "https://hermes.dio.me/courses/cover/1b3c08de-7e1b-4e79-8018-7de928c4d923_cover.png",
       "platform": "DIO",
-      "duration": 1.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "visaocomputacional",
-        "pay",
-        "dio"
-      ],
-      "category": "wishlist",
-      "backText": null,
-      "TagsAsString": "ead, visaocomputacional, pay, dio"
+      "tags": ["ead", "visaocomputacional", "pay", "dio"],
+      "category": "wishlist"
     },
     {
-      "id": 48,
       "title": "Visão Computacional 3D e seus algoritmos",
       "progress": 0,
+      "duration": 1,
       "acquisitionDate": "-",
       "startDate": "-",
       "endDate": "-",
       "link": "https://web.dio.me/",
       "image": "https://hermes.dio.me/courses/cover/63169f16-2c32-484e-b560-df1b53699a38_cover.png",
       "platform": "DIO",
-      "duration": 1.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "visaocomputacional",
-        "pay",
-        "dio"
-      ],
-      "category": "wishlist",
-      "backText": null,
-      "TagsAsString": "ead, visaocomputacional, pay, dio"
+      "tags": ["ead", "visaocomputacional", "pay", "dio"],
+      "category": "wishlist"
     },
     {
-      "id": 49,
       "title": "Formação Microsoft AZ-900 Certification",
       "progress": 0,
+      "duration": 0,
       "acquisitionDate": "-",
       "startDate": "-",
       "endDate": "-",
       "link": "https://web.dio.me/track/formacao-microsoft-az-900-certification",
       "image": "https://hermes.dio.me/tracks/47592c02-ea89-40c8-8362-81f560be3f16.png",
       "platform": "DIO",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "certification",
-        "azure",
-        "cloud",
-        "pay",
-        "dio"
-      ],
-      "category": "wishlist",
-      "backText": null,
-      "TagsAsString": "ead, certification, azure, cloud, pay, dio"
+      "tags": ["ead", "certification", "azure", "cloud", "pay", "dio"],
+      "category": "wishlist"
     },
     {
-      "id": 50,
       "title": "Nexa - Engenharia de Prompts na AWS com Claude",
       "progress": 0,
+      "duration": 1,
       "acquisitionDate": "-",
       "startDate": "-",
       "endDate": "-",
       "link": "https://web.dio.me/track/engenharia-prompts-aws/",
       "image": "https://hermes.dio.me/tracks/261135b9-67c9-4429-ad2d-418c11f1c34f.png",
       "platform": "DIO",
-      "duration": 1.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "aws",
-        "cloud",
-        "pay",
-        "dio"
-      ],
-      "category": "wishlist",
-      "backText": null,
-      "TagsAsString": "ead, aws, cloud, pay, dio"
+      "tags": ["ead", "aws", "cloud", "pay", "dio"],
+      "category": "wishlist"
     },
     {
-      "id": 51,
       "title": "Formação IoT Specialist",
       "progress": 0,
+      "duration": 1,
       "acquisitionDate": " - ",
       "startDate": " - ",
       "endDate": "-",
       "link": "https://web.dio.me/track/formacao-iot-specialist/",
       "image": "https://hermes.dio.me/tracks/b963115b-65fc-470b-b87b-e988251b8a21.png",
       "platform": "DIO",
-      "duration": 1.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "iot",
-        "pay",
-        "dio"
-      ],
-      "category": "wishlist",
-      "backText": null,
-      "TagsAsString": "ead, iot, pay, dio"
+      "tags": ["ead", "iot", "pay", "dio"],
+      "category": "wishlist"
     },
     {
-      "id": 52,
       "title": "Learn Rest Api's with .NET Core 8.0 2024",
       "progress": 0,
+      "duration": 0,
       "acquisitionDate": " - ",
       "startDate": " - ",
       "endDate": " - ",
       "link": "https://www.udemy.com/course/learn-rest-apis-with-net-core/?utm_campaign=2024-05-24&utm_content=promo&utm_medium=3423738&utm_source=email-sendgrid&utm_term=6452872&couponCode=KEEPLEARNING",
       "image": "https://img-c.udemycdn.com/course/240x135/5977912_b284.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "api",
-        ".net",
-        "pay",
-        "udemy"
-      ],
-      "category": "wishlist",
-      "backText": null,
-      "TagsAsString": "ead, api, .net, pay, udemy"
+      "tags": ["ead", "api", ".net", "pay", "udemy"],
+      "category": "wishlist"
     },
     {
-      "id": 53,
       "title": "Desafio de Calistenia em Casa",
       "progress": 9,
       "acquisitionDate": "-",
@@ -1370,23 +855,10 @@
       "link": "https://dashboard.kiwify.com.br/course/8615cc69-4860-4eb1-94e5-df7b8d034b53/",
       "image": "https://aws-assets.kiwify.com.br/JYgFSTIZENUm8aj/FFCE20_6df26396f0cc46c0a36c91c4276cb15e.png",
       "platform": "Kiwify",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "calistenia",
-        "pay",
-        "kiwify"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, calistenia, pay, kiwify"
+      "tags": ["ead", "calistenia", "pay", "kiwify"],
+      "category": "notechnology"
     },
     {
-      "id": 54,
       "title": "Investalk - Renda Fixa",
       "progress": 96,
       "acquisitionDate": "-",
@@ -1395,23 +867,10 @@
       "link": "https://hotmart.com/pt-br/club/investalk/products/1634583/",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/c5f25648-167a-4847-bf43-e0edcacd1d79/capacursohotmart_20220604.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "investalk",
-        "pay",
-        "hotmart"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, investalk, pay, hotmart"
+      "tags": ["ead", "investalk", "pay", "hotmart"],
+      "category": "notechnology"
     },
     {
-      "id": 55,
       "title": "Francês em 3 meses",
       "progress": 96,
       "acquisitionDate": "26/01/2024",
@@ -1420,23 +879,11 @@
       "link": "https://hotmart.com/pt-br/club/frances-com-fabiana-nano/products/1878348/",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/eb30f27d-a1c9-49d5-914e-72f03a38ce21/logof3mht.jpg",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "frances",
-        "pay",
-        "hotmart"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, frances, pay, hotmart"
+      "payment": "R$ 197,00 + R$ 97,00",
+      "tags": ["ead", "frances", "pay", "hotmart"],
+      "category": "notechnology"
     },
     {
-      "id": 56,
       "title": "Piano Bliss Premium - Vitalício",
       "progress": 4,
       "acquisitionDate": "19/06/2020",
@@ -1445,23 +892,11 @@
       "link": "https://pianobliss.club.hotmart.com/lesson/d64lGXbEOj",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/cfe28e71-51be-4070-aa77-73770d142897/257788_190612232_933179434.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "piano",
-        "pay",
-        "hotmart"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, piano, pay, hotmart"
+      "payment": "R$ 1.750,92",
+      "tags": ["ead", "piano", "pay", "hotmart"],
+      "category": "notechnology"
     },
     {
-      "id": 57,
       "title": "Aulas de Teclado do Zero 2.0",
       "progress": 9,
       "acquisitionDate": "29/07/2021",
@@ -1470,23 +905,11 @@
       "link": "https://hotmart.com/pt-br/club/spencerpablo/products/1106912/",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/72c9966e-6db5-4cd3-afe5-1618e047f1bd/teclado201080.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "piano",
-        "pay",
-        "hotmart"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, piano, pay, hotmart"
+      "payment": "R$ 581,04",
+      "tags": ["ead", "piano", "pay", "hotmart"],
+      "category": "notechnology"
     },
     {
-      "id": 58,
       "title": "Gavin's Elite Squad - English Course - [Bra]",
       "progress": 9,
       "acquisitionDate": "08/11/2021",
@@ -1495,23 +918,11 @@
       "link": "https://www.gavinselitesquad.com/products/gavin-s-elite-squad",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/01278910-684f-4f3f-ae55-3c6d1bebb2b0/GavinsEliteSquad_Logo.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "ingles",
-        "pay",
-        "hotmart"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, ingles, pay, hotmart"
+      "payment": "R$ 2.174,58",
+      "tags": ["ead", "ingles", "pay", "hotmart"],
+      "category": "notechnology"
     },
     {
-      "id": 59,
       "title": "Gamificação e mecânicas lúdicas - 5 cursos em 1",
       "progress": 22,
       "acquisitionDate": "05/08/2020",
@@ -1520,48 +931,25 @@
       "link": "https://hotmart.com/pt-br/club/universidade-andarilho/products/898191/",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/486d9309-aa87-4306-80ea-28dfe41c6cf8/gamificaoemecnicasldicas.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "gamification",
-        "pay",
-        "hotmart"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, gamification, pay, hotmart"
+      "payment": "R$ 49,90",
+      "tags": ["ead", "gamification", "pay", "hotmart"],
+      "category": "notechnology"
     },
     {
-      "id": 60,
       "title": "Produtividade, estratégia e evolução - ENTER THE DUNGEON",
       "progress": 0,
       "acquisitionDate": "11/03/2019",
       "startDate": "-",
       "endDate": "-",
+      "duration": 1.5,
       "link": "https://www.udemy.com/course/enter-the-dungeon/",
       "image": "https://img-c.udemycdn.com/course/240x135/1932262_c615.jpg",
       "platform": "Udemy",
-      "duration": 1.5,
-      "instructor": null,
-      "price": "19,90",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "gamification",
-        "pay",
-        "udemy"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, gamification, pay, udemy"
+      "price": "R$ 19,90",
+      "tags": ["ead", "gamification", "pay", "udemy"],
+      "category": "notechnology"
     },
     {
-      "id": 61,
       "title": "Teachergabrielborges- inglês com filmes e séries",
       "progress": 21,
       "acquisitionDate": "08/10/2022",
@@ -1570,23 +958,11 @@
       "link": "https://comunidadegabrielborges-oydbkq.club.hotmart.com/t",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/bb705a7e-3f56-419d-bfde-e7c16c73d32d/capahotmart3.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "ingles",
-        "pay",
-        "hotmart"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, ingles, pay, hotmart"
+      "payment": "R$ 49,90",
+      "tags": ["ead", "ingles", "pay", "hotmart"],
+      "category": "notechnology"
     },
     {
-      "id": 62,
       "title": "Free 4 Talk",
       "progress": 0,
       "acquisitionDate": "-",
@@ -1595,173 +971,96 @@
       "link": "https://www.free4talk.com/",
       "image": "https://www.free4talk.com/static/media/logo.409a5cde.svg",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "ingles",
-        "free",
-        "hotmart"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, ingles, free, hotmart"
+      "payment": "R$ -",
+      "tags": ["ead", "ingles", "free", "hotmart"],
+      "category": "notechnology"
     },
     {
-      "id": 63,
       "title": "Mairo Vergara: Idiomas",
       "progress": 0,
+      "duration": 40,
       "acquisitionDate": "-",
       "startDate": "-",
       "endDate": "-",
       "link": "https://curso.mairovergara.com/dashboard",
       "image": "https://curso.mairovergara.com/images/mairo-vergara.svg",
       "platform": "Hotmart",
-      "duration": 40.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "ingles",
-        "free",
-        "hotmart"
-      ],
-      "category": "notechnology",
-      "backText": null,
-      "TagsAsString": "ead, ingles, free, hotmart"
+      "payment": "R$ -",
+      "tags": ["ead", "ingles", "free", "hotmart"],
+      "category": "notechnology"
     },
     {
-      "id": 64,
       "title": "Make an E-Commerce Website with Blazor WebAssembly in .NET 6",
       "progress": 50,
+      "duration": "17:30h",
+      "price": "0",
       "acquisitionDate": "01/09/2024",
       "startDate": "01/09/2024",
       "endDate": "",
       "link": "https://www.udemy.com/course/blazor-ecommerce/?couponCode=ST11MT91624B",
       "image": "https://img-c.udemycdn.com/course/240x135/3673318_d7b6_7.jpg",
       "platform": "Udemy",
-      "duration": 17.5,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "blazor",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, blazor, pay, udemy"
+      "tags": ["ead", "blazor", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 65,
       "title": "Blazor: Desenvolvendo Aplicações Web Interativas com .NET",
       "progress": 1,
+      "duration": "40:30h",
+      "price": "R$ 24,90",
       "acquisitionDate": "16/09/2024",
       "startDate": "",
       "endDate": "",
       "link": "https://www.udemy.com/course/blazor-desenvolvendo-aplicacoes-web-interativas-com-net/",
       "image": "https://img-c.udemycdn.com/course/240x135/6157575_6f5c.jpg",
       "platform": "Udemy",
-      "duration": 40.5,
-      "instructor": null,
-      "price": "24,90",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "blazor",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, blazor, pay, udemy"
+      "tags": ["ead", "blazor", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 66,
       "title": "Blazor - The Complete Guide (WASM & Server .NET Core 5)",
       "progress": 1,
+      "duration": 19,
+      "price": 0,
       "acquisitionDate": "",
       "startDate": "",
       "endDate": "",
       "link": "https://www.udemy.com/course/blazor-the-complete-guide/?couponCode=ST11MT91624B",
       "image": "https://img-c.udemycdn.com/course/240x135/3692056_a48e_3.jpg",
       "platform": "Udemy",
-      "duration": 19.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "blazor",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, blazor, pay, udemy"
+      "tags": ["ead", "blazor", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 67,
       "title": "Domine a Mensageria com RabbitMQ e NodeJS",
       "progress": 0,
+      "duration": 2.5,
+      "price": 0,
       "acquisitionDate": "",
       "startDate": "",
       "endDate": "",
       "link": "https://www.udemy.com/course/domine-a-mensageria-com-rabbitmq-para-apps-e-microservices/?couponCode=KEEPLEARNING",
       "image": "https://img-c.udemycdn.com/course/240x135/5605260_1fdf_14.jpg",
       "platform": "Udemy",
-      "duration": 2.5,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "rabbitmq",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, rabbitmq, pay, udemy"
+      "tags": ["ead", "rabbitmq", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 68,
       "title": "RabbitMQ na Prática",
       "progress": 5,
+      "duration": 2.5,
+      "price": 0,
       "acquisitionDate": "",
       "startDate": "",
       "endDate": "",
       "link": "https://www.udemy.com/course/rabbitmq-na-pratica",
       "image": "https://img-c.udemycdn.com/course/240x135/4934520_74b7.jpg",
       "platform": "Udemy",
-      "duration": 2.5,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "rabbitmq",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, rabbitmq, pay, udemy"
+      "tags": ["ead", "rabbitmq", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 69,
+      "id": 3074,
       "title": "Fullstack .NET (.NET, Blazor AWSM)",
       "progress": 90,
       "acquisitionDate": "30/01/2024",
@@ -1770,444 +1069,234 @@
       "link": "https://balta.io/player/assistir/c4bfdf26-8709-46f4-b918-d59e78953e4a",
       "image": "https://baltaio.blob.core.windows.net/static/images/courses/fullstack-dotnet_banner.jpg",
       "platform": "Balta.io",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        ".net",
-        "blazor",
-        "pay",
-        "balta"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, .net, blazor, pay, balta"
+      "tags": ["ead", ".net", "blazor", "pay", "balta"],
+      "category": "active"
     },
     {
-      "id": 70,
       "title": "B7 Web",
       "progress": 0,
+      "duration": 80,
       "acquisitionDate": "30/01/2023",
       "startDate": "30/01/2023",
       "endDate": "",
       "link": "https://alunos.b7web.com.br/",
       "image": "https://i0.wp.com/agenciars.com.br/wp-content/uploads/2021/03/b7web-curso-online.png",
       "platform": "B7 Web",
-      "duration": 80.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "pay",
-        "b7web"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, pay, b7web"
+      "tags": ["ead", "pay", "b7web"],
+      "category": "active"
     },
     {
-      "id": 71,
       "title": "DEV Samurai",
       "progress": 0,
+      "duration": 80,
       "acquisitionDate": "30/01/2023",
       "startDate": "30/01/2023",
       "endDate": "",
       "link": "https://class.devsamurai.com.br/",
       "image": "https://class.devsamurai.com.br/assets/logo-ef6ee22864637a2fe661fd192e85c66c9dba6229e0dc6bf238882155fad5c168.svg",
       "platform": "DEV Samurai",
-      "duration": 80.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "pay",
-        "devsamurai"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, pay, devsamurai"
+      "tags": ["ead", "pay", "devsamurai"],
+      "category": "active"
     },
     {
-      "id": 72,
       "title": "AWS na Prática",
       "progress": 8,
+      "duration": 39,
       "acquisitionDate": "24/05/2021",
-      "startDate": "24/05/2021",
+      "startDate":  "24/05/2021",
       "endDate": "",
       "link": "https://www.udemy.com/course/aws-na-pratica",
       "image": "https://img-c.udemycdn.com/course/240x135/3612638_7bdb_2.jpg",
       "platform": "Udemy",
-      "duration": 39.0,
+      "price": "R$ 22.90",
       "instructor": "Phillipe Farias",
-      "price": "22.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "aws",
-        "cloud",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, aws, cloud, pay, udemy"
+      "tags": ["ead", "aws", "cloud", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 73,
       "title": "AWS na Prática",
       "progress": 0,
+      "duration": 6,
       "acquisitionDate": "30/01/2023",
       "startDate": "30/01/2023",
       "endDate": "",
       "link": "https://academy.estabil.is/courses/aws-na-pratica",
       "image": "https://import.cdn.thinkific.com/106383/Xn1qsZtoSfSHPfeLvmAQ_Thinkfic-Cards_AwsNaPratica.jpg",
       "platform": "Estabil Academy",
-      "duration": 6.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "pay",
-        "estabilacademy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, pay, estabilacademy"
+      "tags": ["ead", "pay", "estabilacademy"],
+      "category": "active"
     },
     {
-      "id": 74,
       "title": "DevOps Professional",
       "progress": 0,
+      "duration": 6,
       "acquisitionDate": "30/01/2023",
       "startDate": "30/01/2023",
       "endDate": "",
       "link": "https://academy.estabil.is/courses/take/devops-professional-online/",
       "image": "https://import.cdn.thinkific.com/106383/iPlI0LyQvG8xgYwaENRP_Thinkfic-Cards_DevOpsProfessional.jpg",
       "platform": "Estabil Academy",
-      "duration": 6.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "pay",
-        "estabilacademy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, pay, estabilacademy"
+      "tags": ["ead", "pay", "estabilacademy"],
+      "category": "active"
     },
     {
-      "id": 75,
       "title": "Agile Scrum Foundation",
       "progress": 0,
+      "duration": 6,
       "acquisitionDate": "30/01/2023",
       "startDate": "30/01/2023",
       "endDate": "",
       "link": "https://academy.estabil.is/courses/take/agile-scrum-foundation",
       "image": "https://import.cdn.thinkific.com/106383/l9PAAWY0QGKcgVhcW84h_Thinkfic-Cards_AgileScrumFoundation.jpg",
       "platform": "Estabil Academy",
-      "duration": 6.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "pay",
-        "estabilacademy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, pay, estabilacademy"
+      "tags": ["ead", "pay", "estabilacademy"],
+      "category": "active"
     },
     {
-      "id": 76,
       "title": "DevOps Foundation",
       "progress": 10,
+      "duration": 6,
       "acquisitionDate": "30/01/2023",
       "startDate": "30/01/2023",
       "endDate": "",
       "link": "https://academy.estabil.is/courses/take/devops-foundation",
       "image": "https://import.cdn.thinkific.com/106383/bloysYnJRYWyqooQ32Zx_Thinkfic-Cards_DevOpsFoundation.jpg",
       "platform": "Estabil Academy",
-      "duration": 6.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "pay",
-        "estabilacademy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, pay, estabilacademy"
+      "tags": ["ead", "pay", "estabilacademy"],
+      "category": "active"
     },
     {
-      "id": 77,
       "title": "Rock .NET 5 Entity Framework",
       "progress": 0,
+      "duration": 6,
       "acquisitionDate": "30/01/2023",
       "startDate": "30/01/2023",
       "endDate": "",
       "link": "https://www.udemy.com/course/rock-dot-net-entity-framework",
       "image": "https://img-c.udemycdn.com/course/240x135/3795524_c3d5_2.jpg",
       "platform": "Udemy",
-      "duration": 6.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "entityframework",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, entityframework, pay, udemy"
+      "tags": ["ead", "entityframework", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 78,
       "title": "Arquitetura de Microsserviços do 0 com ASP.NET, .NET 6 e C#",
       "progress": 40,
+      "duration": 24.5,
       "acquisitionDate": "30/01/2023",
       "startDate": "30/01/2023",
       "endDate": "",
       "link": "https://www.udemy.com/course/microservices-do-0-a-gcp-com-dot-net-6-kubernetes-e-docker/",
       "image": "https://img-c.udemycdn.com/course/240x135/3881196_c928_10.jpg",
       "platform": "Udemy",
-      "duration": 24.5,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "microservice",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, microservice, pay, udemy"
+      "tags": ["ead", "microservice", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 79,
       "title": "Mês do Kubernetes",
       "progress": 0,
+      "duration": 2,
       "acquisitionDate": "30/01/2024",
       "startDate": "06/02/2024",
       "endDate": "",
       "link": "https://www.linuxtips.io/course/mes-do-kubernetes",
       "image": "https://lwfiles.mycourse.app/633c72fac8c963ec854a3950-public/adf5ba6add97efe338969b49257e2edb.jpg",
       "platform": "Linux Tips",
-      "duration": 2.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "kubernetes",
-        "free",
-        "linuxtips"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, kubernetes, free, linuxtips"
+      "tags": ["ead", "kubernetes", "free", "linuxtips"],
+      "category": "active"
     },
     {
-      "id": 80,
       "title": "Terraform Essentials",
       "progress": 0,
+      "duration": 5,
       "acquisitionDate": "30/01/2024",
       "startDate": "06/02/2024",
       "endDate": "",
       "link": "https://www.linuxtips.io/course/terraform-essentials",
       "image": "https://lwfiles.mycourse.app/633c72fac8c963ec854a3950-public/da50b59a5f210bd82c560c154c8b953f.png",
       "platform": "Linux Tips",
-      "duration": 5.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "terraform",
-        "free",
-        "linuxtips"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, terraform, free, linuxtips"
+      "tags": ["ead", "terraform", "free", "linuxtips"],
+      "category": "active"
     },
     {
-      "id": 81,
       "title": "Python Essentials",
       "progress": 0,
+      "duration": 20,
       "acquisitionDate": "30/01/2024",
       "startDate": "06/02/2024",
       "endDate": "",
       "link": "https://www.linuxtips.io/course/python-essentials",
       "image": "https://lwfiles.mycourse.app/633c72fac8c963ec854a3950-public/95538cc5983cf849b91e0e943b4f935d.png",
       "platform": "Linux Tips",
-      "duration": 20.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "python",
-        "free",
-        "linuxtips"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, python, free, linuxtips"
+      "tags": ["ead", "python", "free", "linuxtips"],
+      "category": "active"
     },
     {
-      "id": 82,
       "title": "Linux Essentials",
       "progress": 0,
+      "duration": 11,
       "acquisitionDate": "30/01/2024",
       "startDate": "06/02/2024",
       "endDate": "",
       "link": "https://www.linuxtips.io/course/linux-essentials",
       "image": "https://lwfiles.mycourse.app/633c72fac8c963ec854a3950-public/f450049d758f236409e842ad17cc5a23.png",
       "platform": "Linux Tips",
-      "duration": 11.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "linux",
-        "free",
-        "linuxtips"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, linux, free, linuxtips"
+      "tags": ["ead", "linux", "free", "linuxtips"],
+      "category": "active"
     },
     {
-      "id": 83,
       "title": "LINUXtips Experience",
       "progress": 0,
+      "duration": 2,
       "acquisitionDate": "30/01/2024",
       "startDate": "06/02/2024",
       "endDate": "",
       "link": "https://www.linuxtips.io/course/sinta-a-experiencia",
       "image": "https://lwfiles.mycourse.app/633c72fac8c963ec854a3950-public/46cefdb8849ab59deaa5047fa33ec8f8.png",
       "platform": "Linux Tips",
-      "duration": 2.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "linux",
-        "free",
-        "linuxtips"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, linux, free, linuxtips"
+      "tags": ["ead", "linux", "free", "linuxtips"],
+      "category": "active"
     },
     {
-      "id": 84,
       "title": "Kubernetes Essentials",
       "progress": 0,
+      "duration": 4,
       "acquisitionDate": "30/01/2024",
       "startDate": "06/02/2024",
       "endDate": "",
       "link": "https://www.linuxtips.io/course/kubernetes-essentials",
       "image": "https://lwfiles.mycourse.app/633c72fac8c963ec854a3950-public/8ff59775fed89842880896055467cd1e.png",
       "platform": "Linux Tips",
-      "duration": 4.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "kubernetes",
-        "free",
-        "linuxtips"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, kubernetes, free, linuxtips"
+      "tags": ["ead", "kubernetes", "free", "linuxtips"],
+      "category": "active"
     },
     {
-      "id": 85,
       "title": "Docker Essentials",
       "progress": 80,
+      "duration": 3.0,
       "acquisitionDate": "30/01/2024",
       "startDate": "06/02/2024",
       "endDate": "",
       "link": "https://www.linuxtips.io/course/docker-essentials",
       "image": "https://lwfiles.mycourse.app/633c72fac8c963ec854a3950-public/293289f3baa428322a4baeab077491ea.png",
       "platform": "Linux Tips",
-      "duration": 3.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "docker",
-        "free",
-        "linuxtips"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, docker, free, linuxtips"
+      "tags": ["ead", "docker", "free", "linuxtips"],
+      "category": "active"
     },
     {
-      "id": 86,
       "title": "Agile Essentials",
       "progress": 0,
+      "duration": 3,
       "acquisitionDate": "30/01/2024",
       "startDate": "06/02/2024",
       "endDate": "",
       "link": "https://www.linuxtips.io/course/agile-essentials",
       "image": "https://lwfiles.mycourse.app/633c72fac8c963ec854a3950-public/3fd37a9a66bf56d1eb267b34667d3fe9.png",
       "platform": "Linux Tips",
-      "duration": 3.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "agile",
-        "free",
-        "linuxtips"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, agile, free, linuxtips"
+      "tags": ["ead", "agile", "free", "linuxtips"],
+      "category": "active"
     },
     {
-      "id": 87,
       "title": "Programação em Python do básico ao avançado",
       "progress": 32,
       "acquisitionDate": "30/01/2024",
@@ -2216,23 +1305,10 @@
       "link": "https://www.udemy.com/course/curso-de-programacao-em-python-do-basico-ao-avancado/",
       "image": "https://img-c.udemycdn.com/course/240x135/1927044_a831_2.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "python",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, python, pay, udemy"
+      "tags": ["ead", "python", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 88,
       "title": "EXPERT: Industria 4.0 & IOT",
       "progress": 14,
       "acquisitionDate": "30/01/2024",
@@ -2241,23 +1317,10 @@
       "link": "https://dashboard.kiwify.com.br/course/63b5ed06-dac4-4a3d-af54-2a2606bad6e1?lesson=922c93b1-59dd-4220-b70a-82e1c64e42c8/",
       "image": "https://aws-assets.kiwify.com.br/HkEt8phi02Xl7Ir/rockwell-9_674fd337e53340cabc85c310577352f4.png",
       "platform": "Kiwify",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "iot",
-        "pay",
-        "kiwify"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, iot, pay, kiwify"
+      "tags": ["ead", "iot", "pay", "kiwify"],
+      "category": "active"
     },
     {
-      "id": 89,
       "title": "Masterclass Automação industrial & Indústria4.0",
       "progress": 0,
       "acquisitionDate": "30/01/2024",
@@ -2266,23 +1329,10 @@
       "link": "https://dashboard.kiwify.com.br/course/3a90800c-c217-48e9-b7eb-29f006f615f9/",
       "image": "https://aws-assets.kiwify.com.br/HkEt8phi02Xl7Ir/rockwell-10_d9267c6714fd4c80b83bde304e2fca43.png",
       "platform": "Kiwify",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "iot",
-        "pay",
-        "kiwify"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, iot, pay, kiwify"
+      "tags": ["ead", "iot", "pay", "kiwify"],
+      "category": "active"
     },
     {
-      "id": 90,
       "title": "Bootcamp - XP Inc. - Full Stack Developer",
       "progress": 55,
       "acquisitionDate": "30/01/2024",
@@ -2291,23 +1341,10 @@
       "link": "https://web.dio.me/track/coding-the-future-xp-full-stack-developer/",
       "image": "https://hermes.dio.me/tracks/0a65ba61-a8fa-46d9-88aa-dbebb029583e.png",
       "platform": "DIO",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        ".net",
-        "pay",
-        "dio"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, .net, pay, dio"
+      "tags": ["ead", ".net", "pay", "dio"],
+      "category": "active"
     },
     {
-      "id": 91,
       "title": "Build 3 Location Based Vue JS Web Apps Using Google Maps API",
       "progress": 5,
       "acquisitionDate": "30/01/2024",
@@ -2316,24 +1353,11 @@
       "link": "https://www.udemy.com/course/vuejs-google-maps-api-for-beginners/",
       "image": "https://img-c.udemycdn.com/course/240x135/2780734_e332_5.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "vuejs",
-        "maps",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, vuejs, maps, pay, udemy"
+      "github": "https://github.com/ivanclay",
+      "tags": ["ead", "vuejs", "maps", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 92,
       "title": "ADVC - Arquiteto de Valor Cloud",
       "progress": 5,
       "acquisitionDate": "30/01/2024",
@@ -2342,24 +1366,11 @@
       "link": "https://plataforma.cloudfaster.academy/",
       "image": "https://media.licdn.com/dms/image/D4D0BAQFKvdLhgzYqEw/company-logo_200_200/0/1694543883689/cloudfaster_logo?e=2147483647&v=beta&t=fKTm47At9OVI3lre3FzvPcMHbhQQ7Pre7RtjhOqR3Ck",
       "platform": "Cloud Faster",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "cloud",
-        "aws",
-        "pay",
-        "cloudfaster"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, cloud, aws, pay, cloudfaster"
+      "github": "https://github.com/ivanclay",
+      "tags": ["ead", "cloud", "aws", "pay", "cloudfaster"],
+      "category": "active"
     },
     {
-      "id": 93,
       "title": "Advanced Kubernetes/AKS Network & Infrastructure",
       "progress": 0,
       "acquisitionDate": "30/01/2024",
@@ -2368,25 +1379,10 @@
       "link": "https://www.udemy.com/course/learn-aks-network-security/learn/lecture/39222348#overview",
       "image": "https://img-c.udemycdn.com/course/240x135/5139294_27d3.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "kubernetes",
-        "azure",
-        "aks",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, kubernetes, azure, aks, pay, udemy"
+      "tags": ["ead", "kubernetes", "azure", "aks", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 94,
       "title": "Programação Shell Script - Start",
       "progress": 26,
       "acquisitionDate": "27/07/2024",
@@ -2395,23 +1391,10 @@
       "link": "https://programacaoshellscriptstart.club.hotmart.com/lesson/64lkPZoQOj/01-passando-parametros-para-um-shell-script",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/422cc197-124c-4951-84ba-8c6d24ce9e59/AILSHELLSCRIPTSTART.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "shellscript",
-        "pay",
-        "hotmart"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, shellscript, pay, hotmart"
+      "tags": ["ead", "shellscript", "pay", "hotmart"],
+      "category": "active"
     },
     {
-      "id": 95,
       "title": "Curso de Programação do Filipe Deschamps",
       "progress": 20,
       "acquisitionDate": "13/10/2023",
@@ -2420,23 +1403,11 @@
       "link": "https://curso.dev/web/aulas",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/f34b1109-3f8e-41a8-adc4-dffe57bb9644/thumbhotmart.jpg",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "javascript",
-        "pay",
-        "hotmart"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, javascript, pay, hotmart"
+      "payment": "R$ 300,00 (6x)",
+      "tags": ["ead", "javascript", "pay", "hotmart"],
+      "category": "active"
     },
     {
-      "id": 96,
       "title": "Curso Desenvolvimento Web - Programador Br",
       "progress": 68,
       "acquisitionDate": "26/10/2021",
@@ -2445,24 +1416,11 @@
       "link": "https://programadorbr.club.hotmart.com/lesson/2z7r3VvVOj",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/dc321fee-5922-4053-9970-6cf9c5f65cec/ProgBr_LogoGradient_Blue.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "javascript",
-        "react",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, javascript, react, pay, udemy"
+      "payment": "R$ 713,70",
+      "tags": ["ead", "javascript", "react", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 97,
       "title": "Design Patterns com C# - Entendendo Padrões de Projetos",
       "progress": 80,
       "acquisitionDate": "30/08/2022",
@@ -2475,20 +1433,11 @@
       "instructor": "Hcode Treinamentos",
       "price": "22.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "design patterns",
-        "c#",
-        ".net",
-        "udemy"
-      ],
+      "tags": ["ead", "design patterns", "c#", ".net", "udemy"],
       "category": "active",
-      "backText": "You will learn how to build Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementation using latest codes and best practices of .NET 8 on cloud-native environments. You will develop e-commerce modules over Product, Basket, Discount and Ordering microservices with NoSQL (PostgreSQL DocumentDB, Redis) and Relational databases (SQLite, Sql Server) with communicating over RabbitMQ Event Driven Communication and using Yarp API Gateway. You can find Microservices Architecture and Step by Step Implementation on .NET which step by step developing this course with extensive explanations and details.",
-      "TagsAsString": "ead, design patterns, c#, .net, udemy"
+      "backText": "You will learn how to build Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementation using latest codes and best practices of .NET 8 on cloud-native environments. You will develop e-commerce modules over Product, Basket, Discount and Ordering microservices with NoSQL (PostgreSQL DocumentDB, Redis) and Relational databases (SQLite, Sql Server) with communicating over RabbitMQ Event Driven Communication and using Yarp API Gateway. You can find Microservices Architecture and Step by Step Implementation on .NET which step by step developing this course with extensive explanations and details."
     },
     {
-      "id": 98,
       "title": "Design Patterns Criacionais GoF",
       "progress": 11,
       "acquisitionDate": "30/08/2022",
@@ -2501,20 +1450,11 @@
       "instructor": "Jose Carlos Macoratti",
       "price": "22.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "design patterns",
-        "c#",
-        ".net",
-        "udemy"
-      ],
+      "tags": ["ead", "design patterns", "c#", ".net", "udemy"],
       "category": "active",
-      "backText": "Uma abordagem prática e objetiva usando a linguagem C# na plataforma .NET Core.",
-      "TagsAsString": "ead, design patterns, c#, .net, udemy"
+      "backText": "Uma abordagem prática e objetiva usando a linguagem C# na plataforma .NET Core."
     },
     {
-      "id": 99,
       "title": "Padrões de Projetos Estruturais e Comportametais Gof (C#)",
       "progress": 1,
       "acquisitionDate": "30/08/2022",
@@ -2527,20 +1467,11 @@
       "instructor": "Jose Carlos Macoratti",
       "price": "22.90",
       "certificate": "",
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "design patterns",
-        "c#",
-        ".net",
-        "udemy"
-      ],
+      "tags": ["ead", "design patterns", "c#", ".net", "udemy"],
       "category": "active",
-      "backText": "Uma abordagem prática e objetiva usando a linguagem C# na plataforma .NET Core.",
-      "TagsAsString": "ead, design patterns, c#, .net, udemy"
+      "backText": "Uma abordagem prática e objetiva usando a linguagem C# na plataforma .NET Core."
     },
     {
-      "id": 100,
       "title": "Rabiscando Padrões de Projeto",
       "progress": 21,
       "acquisitionDate": "30/08/2022",
@@ -2549,23 +1480,11 @@
       "link": "https://rabiscandopadroesdeprojeto.club.hotmart.com/lesson/0Ov9N35V7j",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/7d2aa31e-f048-4ea2-9ecf-6edb8681071d/Designsemnome3.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "design patterns",
-        "pay",
-        "Hotmart"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, design patterns, pay, Hotmart"
+      "payment": "R$ 297,00",
+      "tags": ["ead", "design patterns", "pay", "Hotmart"],
+      "category": "active"
     },
     {
-      "id": 101,
       "title": "Fabrica de Aplicativos - React Native",
       "progress": 20,
       "acquisitionDate": "16/04/2023",
@@ -2574,23 +1493,11 @@
       "link": "https://fabricadeapps.club.hotmart.com/lesson/vROxzayyeD/",
       "image": "https://hotmart.s3.amazonaws.com/product_pictures/91886d52-1a62-44ff-b170-d36dcb67320f/capa1.png",
       "platform": "Hotmart",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "reactnative",
-        "pay",
-        "hotmart"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, reactnative, pay, hotmart"
+      "payment": "R$ 397,90",
+      "tags": ["ead", "reactnative", "pay", "hotmart"],
+      "category": "active"
     },
     {
-      "id": 102,
       "title": "Formação JavaScript Expert",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2599,23 +1506,11 @@
       "link": "https://play.ewacademy.com.br/area/vitrine",
       "image": "https://cdn.areademembros.com/files/instancia_3364/image/Sx4E4hKswKFNg3inVTd8SE1IQ7iUIk1wsUYAXxTs.png",
       "platform": " EW Academy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "javascript",
-        "pay",
-        "ewacademy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, javascript, pay, ewacademy"
+      "payment": "R$ 537,12 (4x)",
+      "tags": ["ead", "javascript", "pay", "ewacademy"],
+      "category": "active"
     },
     {
-      "id": 103,
       "title": "Elastictags e Elastic Stack: o Curso Completo!",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2624,23 +1519,11 @@
       "link": "https://www.udemy.com/course/learn-aks-network-security/learn/lecture/39222348#overview",
       "image": "https://img-c.udemycdn.com/course/240x135/3639332_436d_2.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "elastic",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, elastic, pay, udemy"
+      "payment": "R$ ",
+      "tags": ["ead", "elastic", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 104,
       "title": "IOT - Protocolo MQTT com o software Mosquitto",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2649,24 +1532,11 @@
       "link": "https://www.udemy.com/course/iot-protocolo-mqtt-com-o-software-mosquitto/",
       "image": "https://img-c.udemycdn.com/course/240x135/4776728_dcdd_2.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "iot",
-        "mqtt",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, iot, mqtt, pay, udemy"
+      "payment": "R$ ",
+      "tags": ["ead", "iot", "mqtt", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 105,
       "title": "Introdução ao protocolo MQTT para automação industrial​",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2675,74 +1545,39 @@
       "link": "https://www.udemy.com/course/introducao-ao-protocolo-mqtt-para-automacao-industrial/",
       "image": "https://img-c.udemycdn.com/course/240x135/4313924_29ac_2.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "iot",
-        "mqtt",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, iot, mqtt, pay, udemy"
+      "payment": "R$ ",
+      "tags": ["ead", "iot", "mqtt", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 106,
       "title": "Docker do 0 à Maestria: Contêineres Desmistificados com K8s",
       "progress": 5,
+      "duration": 0,
       "acquisitionDate": "24/05/2021",
       "startDate": "24/05/2021",
       "endDate": "",
       "link": "https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada",
       "image": "https://img-c.udemycdn.com/course/240x135/2414176_91bc_8.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "docker",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, docker, pay, udemy"
+      "payment": "22.90",
+      "tags": ["ead", "docker", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 107,
       "title": "Docker essencial para a plataforma .NET (Bônus Kubernetes)",
       "progress": 40,
+      "duration": 19,
       "acquisitionDate": "30/01/2023",
       "startDate": "30/01/2023",
       "endDate": "",
       "link": "https://www.udemy.com/course/docker-essencial-para-a-plataforma-net/",
       "image": "https://img-c.udemycdn.com/course/240x135/2193064_c98c_5.jpg",
       "platform": "Udemy",
-      "duration": 19.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "docker",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, docker, pay, udemy"
+      "payment": "",
+      "tags": ["ead", "docker", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 108,
       "title": "Imagens Avançadas com IA Generativa e Stable Diffusion​",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2751,23 +1586,11 @@
       "link": "https://www.udemy.com/course/imagens-avancadas-com-ia-generativa-stable-diffusion/",
       "image": "https://img-c.udemycdn.com/course/240x135/5893082_4e6a_3.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "GenAI",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, GenAI, pay, udemy"
+      "payment": "R$ ",
+      "tags": ["ead", "GenAI", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 109,
       "title": "Terraform For Azure - Beginner to Expert​",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2776,24 +1599,11 @@
       "link": "https://www.udemy.com/course/terraform-for-azure-beginner-to-expert/",
       "image": "https://img-c.udemycdn.com/course/240x135/4986932_4488_2.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "terraform",
-        "azure",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, terraform, azure, pay, udemy"
+      "payment": "R$ ",
+      "tags": ["ead", "terraform", "azure", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 110,
       "title": "Cloud Bootcamp​",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2802,23 +1612,11 @@
       "link": "https://app.thecloudbootcamp.com/users/sign_in",
       "image": "https://import.cdn.thinkific.com/282370%2Fcustom_site_themes%2Fid%2FPvuKPnKCSreOO9lDjMkO_Logo_TCB.png",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "cloud",
-        "pay",
-        "thecloudbootcamp"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, cloud, pay, thecloudbootcamp"
+      "payment": "R$ ",
+      "tags": ["ead", "cloud", "pay", "thecloudbootcamp"],
+      "category": "active"
     },
     {
-      "id": 111,
       "title": "Full Cycle​",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2827,22 +1625,11 @@
       "link": "https://plataforma.fullcycle.com.br/login",
       "image": "https://plataforma.fullcycle.com.br/assets/fullCycle-03_NSSZv.svg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "pay",
-        "fullcycle"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, pay, fullcycle"
+      "payment": "R$ ",
+      "tags": ["ead", "pay", "fullcycle"],
+      "category": "active"
     },
     {
-      "id": 112,
       "title": "Devops PRO​",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2851,23 +1638,11 @@
       "link": "https://plataforma.devopspro.com.br/login",
       "image": "https://plataforma.devopspro.com.br/assets/devOps-CwEhO_4c.svg",
       "platform": "DevopsPro",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "devops",
-        "pay",
-        "devopspro"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, devops, pay, devopspro"
+      "payment": "R$ ",
+      "tags": ["ead", "devops", "pay", "devopspro"],
+      "category": "active"
     },
     {
-      "id": 113,
       "title": "AWS Serverless Design for IoT​",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2876,24 +1651,11 @@
       "link": "https://www.udemy.com/course/aws-serverless-design-for-iot",
       "image": "https://img-c.udemycdn.com/course/240x135/2694740_7f86_6.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "aws",
-        "serveless",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, aws, serveless, pay, udemy"
+      "payment": "R$ ",
+      "tags": ["ead", "aws", "serveless", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 114,
       "title": "Exploring AWS IoT​",
       "progress": 5,
       "acquisitionDate": "-",
@@ -2902,24 +1664,11 @@
       "link": "https://www.udemy.com/course/exploring-aws-iot/",
       "image": "https://img-c.udemycdn.com/course/240x135/1483106_5672_5.jpg",
       "platform": "Udemy",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "aws",
-        "iot",
-        "pay",
-        "udemy"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, aws, iot, pay, udemy"
+      "payment": "R$ ",
+      "tags": ["ead", "aws", "iot", "pay", "udemy"],
+      "category": "active"
     },
     {
-      "id": 115,
       "title": "AWS - Cloud Treinamentos​",
       "progress": 90,
       "acquisitionDate": "-",
@@ -2928,23 +1677,11 @@
       "link": "https://academy.cloudtreinamentos.com/login/index.php",
       "image": "https://academy.cloudtreinamentos.com/pluginfile.php/1/core_admin/logo/0x200/1699413765/logotipo-cloud-hall.png",
       "platform": "Cloud Treinamentos",
-      "duration": 0.0,
-      "instructor": null,
-      "price": "0",
-      "certificate": null,
-      "sourceCode": null,
-      "tags": [
-        "ead",
-        "aws",
-        "pay",
-        "cloudtreinamentos"
-      ],
-      "category": "active",
-      "backText": null,
-      "TagsAsString": "ead, aws, pay, cloudtreinamentos"
+      "price": "R$ ",
+      "tags": ["ead", "aws", "pay", "cloudtreinamentos"],
+      "category": "active"
     },
     {
-      "id": 116,
       "title": "Redis Expert Bootcamp​",
       "progress": 41,
       "acquisitionDate": "10/12/2024",
@@ -2955,23 +1692,13 @@
       "platform": "Hotmart",
       "duration": 2.5,
       "instructor": "",
-      "price": "345.80",
+      "price": "R$ 345,80",
       "certificate": "",
       "sourceCode": "",
-      "tags": [
-        "ead",
-        " redis",
-        " database",
-        " mongo",
-        " pay",
-        " hotmart"
-      ],
-      "category": "active",
-      "backText": "",
-      "TagsAsString": "ead,  redis,  database,  mongo,  pay,  hotmart"
+      "tags": ["ead", "redis", "database", "mongo", "pay", "hotmart"],
+      "category": "active"
     },
     {
-      "id": 117,
       "title": "Building Food Ordering App using Xamarin.Forms​",
       "progress": 15,
       "acquisitionDate": "09/07/2020",
@@ -2980,23 +1707,15 @@
       "link": "https://technoacademy.net/courses/enrolled/1052113",
       "image": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/Hgr52t96QDyojqfHxMcJ",
       "platform": "Techno Academy",
-      "duration": 40.0,
+      "duration": 40,
       "instructor": "Sekhar",
-      "price": "6.00",
+      "price": "6.00 USD",
       "certificate": "",
       "sourceCode": "",
-      "tags": [
-        "ead",
-        " xamarin forms",
-        " pay",
-        " Techno Academy"
-      ],
-      "category": "active",
-      "backText": "",
-      "TagsAsString": "ead,  xamarin forms,  pay,  Techno Academy"
+      "tags": ["ead", "xamarin forms", "pay", "Techno Academy"],
+      "category": "active"
     },
     {
-      "id": 118,
       "title": "Git e contribuições para projetos Open Source",
       "progress": 15,
       "acquisitionDate": "09/07/2020",
@@ -3005,24 +1724,15 @@
       "link": "https://www.udemy.com/course/git-e-github/learn/lecture/6995588",
       "image": "https://img-c.udemycdn.com/course/240x135/1202008_29f8_2.jpg",
       "platform": "Udemy",
-      "duration": 5.0,
+      "duration": 5,
       "instructor": "Bruno Orlandi",
-      "price": "0",
+      "price": "",
       "certificate": "",
       "sourceCode": "",
-      "tags": [
-        "ead",
-        " git",
-        " github",
-        " free",
-        " udemy"
-      ],
-      "category": "active",
-      "backText": "",
-      "TagsAsString": "ead,  git,  github,  free,  udemy"
+      "tags": ["ead", "git", "github", "free", "udemy"],
+      "category": "active"
     },
     {
-      "id": 119,
       "title": "Fundamentos de GIT​",
       "progress": 98,
       "acquisitionDate": "09/07/2020",
@@ -3031,23 +1741,16 @@
       "link": "https://app.b7web.com.br/course/fundamentos-de-git",
       "image": "https://media.licdn.com/dms/image/v2/D4D12AQGZ2Hek_UgBsg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1689418463906?e=1746057600&v=beta&t=UWeHUCzxKxM6llcBclEhjmOe6-WkGzHKep-nIPf-0cI",
       "platform": "B7 Web",
-      "duration": 1.0,
+      "duration": 1,
       "instructor": "",
       "price": "0",
       "certificate": "",
       "sourceCode": "",
-      "tags": [
-        "ead",
-        "git",
-        "pay",
-        "b7web"
-      ],
+      "tags": ["ead", "git", "pay", "b7web"],
       "category": "active",
-      "backText": "Esse curso ajudou no entendimento de comandos git e do fluxo de trabalho...",
-      "TagsAsString": "ead, git, pay, b7web"
+      "backText": "Esse curso ajudou no entendimento de comandos git e do fluxo de trabalho..."
     },
     {
-      "id": 120,
       "title": "GitHub na prática​",
       "progress": 98,
       "acquisitionDate": "09/07/2020",
@@ -3056,24 +1759,16 @@
       "link": "https://app.b7web.com.br/course/github-na-pratica",
       "image": "https://cdn-images-1.medium.com/max/1200/1*dDNpLKu_oTLzStsDTnkJ-g.png",
       "platform": "B7 Web",
-      "duration": 1.0,
+      "duration": 1,
       "instructor": "",
       "price": "0",
       "certificate": "",
       "sourceCode": "",
-      "tags": [
-        "ead",
-        "git",
-        "github",
-        "pay",
-        "b7web"
-      ],
+      "tags": ["ead", "git","github", "pay", "b7web"],
       "category": "active",
-      "backText": "Esse curso ajudou no entendimento github e do fluxo de trabalho...",
-      "TagsAsString": "ead, git, github, pay, b7web"
+      "backText": "Esse curso ajudou no entendimento github e do fluxo de trabalho..."
     },
     {
-      "id": 121,
       "title": "Git e Github",
       "progress": 99,
       "acquisitionDate": "09/07/2020",
@@ -3082,97 +1777,14 @@
       "link": "https://plataforma.devopspro.com.br/courses/af00ffe1-1d2f-4dce-9a19-780e59273907/8/1/4/conteudos?capitulo=4&conteudo=1157",
       "image": "https://cdn-images-1.medium.com/max/1200/1*dDNpLKu_oTLzStsDTnkJ-g.png",
       "platform": "DevopsPro",
-      "duration": 2.0,
+      "duration": 2,
       "instructor": "Fabricio Veronez",
       "price": "0",
       "certificate": "",
       "sourceCode": "",
-      "tags": [
-        "ead",
-        "git",
-        "github",
-        "pay",
-        "devopspro"
-      ],
+      "tags": ["ead", "git","github", "pay", "devopspro"],
       "category": "active",
-      "backText": "Esse curso ajudou no entendimento github e do fluxo de trabalho...",
-      "TagsAsString": "ead, git, github, pay, devopspro"
-    },
-    {
-      "id": 122,
-      "title": "RabbitMQ In Practice",
-      "progress": 0,
-      "acquisitionDate": "",
-      "startDate": "",
-      "endDate": "",
-      "link": "https://www.udemy.com/course/rabbitmq-in-practice/",
-      "image": "https://img-c.udemycdn.com/course/240x135/4049476_e0db_3.jpg",
-      "platform": "Udemy",
-      "duration": 9.0,
-      "instructor": "Piotr Zuk",
-      "price": "0",
-      "certificate": "",
-      "sourceCode": "",
-      "tags": [
-        "ead",
-        " rabbitmq",
-        " udemy"
-      ],
-      "category": "subscribe",
-      "backText": "A Complete Guide to RabbitMQ, Queues, Exchanges, Producers and Consumers, Patterns, Clustering, Optimization & Tune-up",
-      "TagsAsString": "ead,  rabbitmq,  udemy"
-    },
-    {
-      "id": 123,
-      "title": "Design Patterns in C# and .NET",
-      "progress": 0,
-      "acquisitionDate": "12/01/2024",
-      "startDate": "",
-      "endDate": "",
-      "link": "https://www.udemy.com/course/design-patterns-csharp-dotnet/?couponCode=KEEPLEARNINGBR",
-      "image": "https://img-c.udemycdn.com/course/240x135/1148688_4313_5.jpg",
-      "platform": "Udemy",
-      "duration": 205.0,
-      "instructor": "Dmitri Nesteruk",
-      "price": "134.90",
-      "certificate": "",
-      "sourceCode": "",
-      "tags": [
-        "ead",
-        " design pattern",
-        " udemy",
-        " c#",
-        " .net"
-      ],
-      "category": "active",
-      "backText": "Discover the modern implementation of design patterns with C# and .NET",
-      "TagsAsString": "ead,  design pattern,  udemy,  c#,  .net"
-    },
-    {
-      "id": 124,
-      "title": "Apache Kafka + .Net Core",
-      "progress": 100,
-      "acquisitionDate": "10/12/2024",
-      "startDate": "10/12/2024",
-      "endDate": "12/12/2024",
-      "link": "https://www.udemy.com/course/apache-kafka-dotnet/",
-      "image": "https://img-c.udemycdn.com/course/240x135/5818688_207e_3.jpg",
-      "platform": "Udemy",
-      "duration": 45.0,
-      "instructor": "Vinicius Balduino Garcia",
-      "price": "0",
-      "certificate": "https://www.udemy.com/certificate/UC-4d233463-b88b-4794-bbcd-0c7eab00bb7d/",
-      "sourceCode": "https://github.com/ivanclay/kafka-training",
-      "tags": [
-        "ead",
-        " .net",
-        " kafka",
-        " udemy",
-        " subscribe"
-      ],
-      "category": "subscribe",
-      "backText": "Aprenda a desenvolver uma aplicação .Net Core integrada ao Apache Kafka",
-      "TagsAsString": "ead,  .net,  kafka,  udemy,  subscribe"
+      "backText": "Esse curso ajudou no entendimento github e do fluxo de trabalho..."
     }
   ]
 }
